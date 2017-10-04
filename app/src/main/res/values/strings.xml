@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="battery_level">Nivel de batería:</string>
+</resources>
